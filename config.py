@@ -1,0 +1,1 @@
+This is config file. This file is used to store the configuration of the project. This file is used to store the database configuration, API keys, and other configuration related to the project.
